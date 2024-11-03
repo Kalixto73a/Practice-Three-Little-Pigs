@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+header{
+    background-color: rgba(178,72,68,255);
+    text-align: center;
+    height: 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+main{
+    background-color: rgba(254,240,227,255);
+    text-align: center;
+    height: 2450px;
+}
+.imgThePigs{
+    text-align: center;
+}
+p{
+    margin: 20px;
+    font-size: 25px;
+}
+footer{
+    background-color: rgba(178,72,68,255);
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
