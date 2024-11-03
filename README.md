@@ -8,7 +8,7 @@ En este proyecto os contare la historia de los 3 cerditos en una pagina web.
 
 ![](https://skillicons.dev/icons?i=html,css)
 
-## Herramientas
+## 🛠 Herramientas
 
 ![](https://skillicons.dev/icons?i=vscode,git,github)
 
